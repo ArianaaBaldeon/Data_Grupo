@@ -1,15 +1,15 @@
 # Data_Grupo
-**1. Data 1:**_****_
+**1. Data 1:**_**IDH**_
   - **Título:** Indice de Desarrollo Humano
-  - **Descripción:**Este indicador nos permitirá conocer el progreso de cada país. Resulta importante en este trabajo ya que los migrantes observan el nivel de desarrollo y progreso que tienen los países a los que deciden migrar.
+  - **Descripción:** Este indicador nos permitirá conocer el progreso de cada país. Resulta importante en este trabajo ya que los migrantes observan el nivel de desarrollo y progreso que tienen los países a los que deciden migrar.
   - **Tipo de datos:** Cuantitativo continua
-  - **Fuente:** 
+  - **Fuente:** Datosmacro
 
 **2. Data 2:**_**IDCV**_
   - **Título:** Calidad de vida
-  - **Descripción:**el índice de calidad de vida nos permitirá medir el bienestar que percibe la ciudadanía con respecto al lugar en el que viven. Evalúa 4 dimensiones: vivienda, educación, salud y entorno.
+  - **Descripción:** El índice de calidad de vida nos permitirá medir el bienestar que percibe la ciudadanía con respecto al lugar en el que viven. Evalúa 4 dimensiones: vivienda, educación, salud y entorno.
   - **Tipo de variable:** Categórica ordinal
-  - **Fuente:**Numbeo
+  - **Fuente:** Numbeo
 
  **3. Data 3:**_**free_express_est**_
   - **Título:** Nivel de democracia
@@ -23,14 +23,14 @@
   - **Tipo de variable:** Cuantitativa discreta
   - **Fuente:** Rilostat
 
-**5. Data 5:**_****_
+**5. Data 5:**_**Alfabetización adultos**_
   - **Título:** Refugiados
   - **Descripción:** Son personas que salieron de sus países de origen por temor a los conflictos, las guerras, violencia generalizada, entre otras razones que hayan alterado sus vidas en su lugar de origen. Estas personas huyen a otros países en busca de protección y un mejor lugar para vivir
   - **Tipo de variable:** Cuantitativa discreta
-  - **Fuente:** 
+  - **Fuente:** Datosmacro
 
-**6. Data 6:**_****_
+**6. Data 6:**_**Cantidad de permisos de residencia**_
   - **Título:** Permiso de residencia
-  - **Descripción:** Es la autorización administrativa que le permite a un extranjero permanecer en un país ajeno al suyo. Esta puede ser otorgada de manera temporal o a largo plazo.
-  - **Tipo de variable:** Cuantitativa discreta
+  - **Descripción:** Tasa de alfabetización es, en este caso, el porcentaje de personas con habilidades para leer y escribir en un grupo de edad dado. Aplicado a este caso, el grupo de edad es edad adulta
+  - **Tipo de variable:** Cuantitativa continua
   - **Fuente:** Eurostat
